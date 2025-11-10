@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "62767555d731734532940d497a011a8d"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "0a1bed00ffa2c10d627336df60d61752"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "e1efd6642ff4b96985a09ad31fd7154e"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "11f97ed1903bc82c35b390a42b9791ec"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "e8eb631013ccb0b1a48acc2f6e809d7c"
+    },
+    {
+        "path": "kdymy-wrtl-lthfyz-lqran-wnlyn-jyl-qrany-mtqn-fy-aalm-rqmy-mttwr",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kdymy-wrtl-lthfyz-lqran-wnlyn-jyl-qrany-mtqn-fy-aalm-rqmy-mttwr/index.html",
+        "type": "file",
+        "md5": "bac0efe895d10ac309c5ba4990f12892"
+    },
+    {
+        "path": "kdymy-wrtl-lthfyz-lqran-wnlyn-mdrs-ltqn-fy-hfz-ktb-llh-aan-baad",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kdymy-wrtl-lthfyz-lqran-wnlyn-mdrs-ltqn-fy-hfz-ktb-llh-aan-baad/index.html",
+        "type": "file",
+        "md5": "505e51eba7d833a485d6687a2f5c0b7f"
+    },
+    {
+        "path": "kdymy-wrtl-lthfyz-lqran-wnlyn-ryd-fy-taalym-ktb-llh-aan-baad",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kdymy-wrtl-lthfyz-lqran-wnlyn-ryd-fy-taalym-ktb-llh-aan-baad/index.html",
+        "type": "file",
+        "md5": "d21f453edbee99902ec6240830b48c46"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/khyr-lklm.jpg",
+        "type": "file",
+        "md5": "c6c93fb45ddfb79ab3b3ca8b1dc9ae22"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-2xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-lg.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-md.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-sm.jpg",
+        "type": "file",
+        "md5": "db9e968e9816eeb84318829d501e4703"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xl.jpg",
+        "type": "file",
+        "md5": "5c2d650a829b0e1fd484940c742d9e91"
+    },
+    {
+        "path": "/media/website/responsive/khyr-lklm-xs.jpg",
+        "type": "file",
+        "md5": "da202ab00f2b905b2bc16314915f4155"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "17c65e1f03dd4dc3f50e489da4ed6723"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bd3c722c77ba80d517d1968671a8fc53"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "taalym-lqran-lkrym-aan-baad-nwr-lhdy-fy-aasr-ltqny-lhdyth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taalym-lqran-lkrym-aan-baad-nwr-lhdy-fy-aasr-ltqny-lhdyth/index.html",
+        "type": "file",
+        "md5": "d79313a0d52e63d251798cc6329d0ad1"
+    },
+    {
+        "path": "taalym-lqran-lkrym-aan-baad-thwr-fy-nshr-nwr-lwhy-fy-laasr-lhdyth",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/taalym-lqran-lkrym-aan-baad-thwr-fy-nshr-nwr-lwhy-fy-laasr-lhdyth/index.html",
+        "type": "file",
+        "md5": "c10dd693a69cc15145c9a98592f12d98"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "39bbb1e254691e00f8d205b8a5eeb0cd"
+    }
+]
